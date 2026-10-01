@@ -4,6 +4,10 @@ A custom embedded clock radio built around the Raspberry Pi Pico W, featuring FM
 
 This project was completed for **ECE 299 at the University of Victoria** as a two-person engineering design project.
 
+<p align="center">
+  <img src="images/finished-radio.jpg" alt="Finished Embedded Clock Radio" width="500">
+</p>
+
 ## Project Overview
 
 The goal of this project was to design and build a fully integrated clock radio using a Raspberry Pi Pico W running MicroPython.
@@ -50,6 +54,19 @@ The design separated power, ground, digital control, and analog audio signals ac
 
 The board was fabricated externally and manually assembled using both SMD and through-hole components.
 
+### PCB
+
+<p align="center">
+  <img src="images/pcb-render.png" alt="KiCad PCB 3D Render" width="400">
+  <img src="images/pcb-top.jpg" alt="Fabricated PCB" width="400">
+</p>
+
+### Circuit Schematic
+
+<p align="center">
+  <img src="images/schematic.png" alt="Clock Radio Circuit Schematic" width="800">
+</p>
+
 ### PCB Highlights
 
 - 4-layer PCB layout
@@ -94,6 +111,10 @@ Testing and debugging included:
 ## Enclosure Design
 
 The enclosure was designed in **SolidWorks** and 3D printed in PLA.
+
+<p align="center">
+  <img src="images/enclosure-render.png" alt="SolidWorks Clock Radio Enclosure" width="450">
+</p>
 
 The enclosure includes:
 
