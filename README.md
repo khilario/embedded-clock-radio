@@ -156,4 +156,4 @@ Technologies Used
 
 The full project report contains additional details on the design process, PCB development, testing, and project decisions.
 
-[View the ECE 299 Final Report](docs/ECE299_Final_Report.pdf)
+[View the ECE 299 Final Report](docs/ECE299 Final Report.pdf)
