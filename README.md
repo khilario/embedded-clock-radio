@@ -63,9 +63,7 @@ The board was fabricated externally and manually assembled using both SMD and th
 
 ### Circuit Schematic
 
-<p align="center">
-  <img src="images/schematic.png" alt="Clock Radio Circuit Schematic" width="800">
-</p>
+
 
 ### PCB Highlights
 
