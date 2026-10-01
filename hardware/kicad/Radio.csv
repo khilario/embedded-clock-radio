@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2,C6,C8";"CP_Radial_D6.3mm_P2.50mm";3;"470uF";;;
+2;"LS1";"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal";1;"Speaker";;;
+3;"Rpullup1,Rpullup2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"2k";;;
+4;"R4,R5,R6,R9,R3,R7,R8";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";7;"10K";;;
+5;"C4,C1";"CP_Radial_D6.3mm_P2.50mm";2;"10uF";;;
+6;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"1.2K";;;
+7;"SW3,SW4";"SW_PUSH_6mm";2;"SW_Push";;;
+8;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"10";;;
+9;"C7,C5";"C_Disc_D3.0mm_W1.6mm_P2.50mm";2;"0.1uF";;;
+10;"AE1";"TestPoint_Pad_D1.0mm";1;"Antenna";;;
+11;"U2";"RDA5807M_Module_TH";1;"RDA5807M_Module";;;
+12;"U1";"DIP-8_W7.62mm";1;"LM386";;;
+13;"SW2,SW1";"RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm";2;"Rotary Encoder";;;
+14;"DISP1";"OLED_Display_1.3";1;"OLED Display";;;
+15;"A1";"RPi_Pico_TH";1;"RaspberryPi_Pico_W";;;
+16;"C3";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"0.05uF";;;
